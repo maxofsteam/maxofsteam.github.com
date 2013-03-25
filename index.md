@@ -3,8 +3,8 @@ layout: page
 title: Welcome to Max's Blog
 tagline: I dont give a fuck
 ---
-#About me:
-<a href="http://maxsblog.de/about.md"></a>
+#<a href="http://maxsblog.de/about.md">About Me</a>
+
 ##Here are my posts:
 <ul class="posts">
   {% for post in site.posts %}
