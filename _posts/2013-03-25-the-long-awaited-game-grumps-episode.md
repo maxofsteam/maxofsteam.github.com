@@ -3,7 +3,7 @@ layout: post
 title: "The long awaited Game Grumps Episode"
 description: "grant kirkhope"
 category: videos
-tags: [grant kirkhope, grant, kirkhope,game grumps,game, grumps]
+tags: [grant kirkhope, grant, kirkhope ,game grumps ,game , grumps]
 ---
 {% include JB/setup %}
 <iframe width="560" height="315" src="http://www.youtube.com/embed/t70l-9n1rCQ" frameborder="0">   </iframe>
