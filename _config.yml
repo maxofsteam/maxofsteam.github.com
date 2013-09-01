@@ -10,10 +10,10 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Max's Blog
-tagline: A place were max blogs
+tagline: i blog here.
 author :
   name : Fabio Miranda
-  email : blah@email.test
+  email : max@maxsblog.de
   github : maxofsteam
   twitter : maxofsteam
   feedburner : false
